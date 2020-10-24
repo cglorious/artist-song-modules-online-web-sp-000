@@ -10,4 +10,7 @@ module Memorable
     end
   end
 
+  module InstanceMethods
+  end
+
 end
