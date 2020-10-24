@@ -11,6 +11,7 @@ module Memorable
   end
 
   module InstanceMethods
+    #code
   end
 
 end
