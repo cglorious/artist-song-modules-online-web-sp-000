@@ -11,7 +11,7 @@ module Memorable
   end
 
   module InstanceMethods
-    class.all << self
+    all << self
   end
 
 end
